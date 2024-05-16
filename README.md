@@ -1,8 +1,8 @@
 ### Hi there! I'm Nazanin Azar👩🏻
 
 <h3>About Me</h3>
-- 🧁 &nbsp; 25 October 2000
-- 🧠 &nbsp; enjoying of book, movie, fitness, traveling, drinking coffee
+_ 🧁 &nbsp; 25 October 2000
+_ 🧠 &nbsp; enjoying of book, movie, fitness, traveling, drinking coffee
 - 🌷 &nbsp; Learning React and coding with JS 
 
 
