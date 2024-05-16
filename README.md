@@ -6,6 +6,8 @@
 - 🧠 &nbsp; enjoying of book, movie, fitness, traveling, drinking coffee
 - 🌷 &nbsp; Learning React and coding with JS 
 
+  </br>
+  
 <h2>🔗 &nbsp; Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black)
@@ -19,9 +21,10 @@
 
 
 ## 🌤 My Activity
+<a>
 <img src="https://github-readme-stats.vercel.app/api?username=Nazanin-Azar&show_icons=true&theme=tokyonight" />
-
-## My Languages Of Projects
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazanin-Azar&layout=pie" />
+
+</a>
 
 
