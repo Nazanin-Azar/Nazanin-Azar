@@ -22,9 +22,13 @@
 
 ## 🌤 My Activity
 
-<a href="https://github.com/Nazanin-Azar">
+<p align="center">
+  <a href="https://github.com/Nazanin-Azar">
 <img src="https://github-readme-stats.vercel.app/api?username=Nazanin-Azar&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazanin-Azar&layout=pie" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazanin-Azar&layout=donut" />
 </a>
+</p>
 
+
+<h2></h2>
 
