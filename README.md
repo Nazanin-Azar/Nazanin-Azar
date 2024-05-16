@@ -10,11 +10,24 @@
   
 <h2>🔗 &nbsp; Tech Stack</h2>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=black)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+<img src="https://github.com/Nazanin-Azar/Nazanin-Azar/blob/main/icons8-html-64%20(1).png?raw=true" width="46" height="46"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://github.com/Nazanin-Azar/Nazanin-Azar/blob/main/icons8-css-48.png?raw=true" width="46" height="46"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://github.com/Nazanin-Azar/Nazanin-Azar/blob/main/icons8-js-64.png?raw=true" width="46" height="46"/>
+</a>
+<a href="https://github.com/" target="_blank">
+<img src="https://github.com/Nazanin-Azar/Nazanin-Azar/blob/main/icons8-git-64.png?raw=true" width="46" height="46"/>
+</a>
+<a href="https://git-scm.com/doc" target="_blank">
+<img src="https://github.com/Nazanin-Azar/Nazanin-Azar/blob/main/icons8-merge-git-64.png?raw=true" width="46" height="46"/>
+</a>
+</p>
+
 
 </br>
 
