@@ -6,6 +6,10 @@
 - 🧠 &nbsp; enjoying of book, movie, fitness, traveling, drinking coffee
 - 🌷 &nbsp; Learning React and coding with JS 
 
+<h3>🔗 &nbsp; Tech Stack</h3>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+v
 
 
 ## My Activity
