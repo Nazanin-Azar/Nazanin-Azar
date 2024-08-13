@@ -3,7 +3,7 @@
 <h3>🎈 &nbsp; About Me</h3>
 
 - 🧁 &nbsp; 25 October 2000
-- 🧠 &nbsp; enjoying of book, movie, fitness, traveling, drinking coffee
+- 🧠 &nbsp; Enjoying of book, movie, fitness, traveling, drinking coffee
 - 🌷 &nbsp; Learning React and coding with JS 
 
   </br>
